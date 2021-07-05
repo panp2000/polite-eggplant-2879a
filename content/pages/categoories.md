@@ -7,7 +7,7 @@ sections:
     section_id: lorem-ipsum
     posts_number: 2
     actions:
-      - label: lorem-ipsum
+      - label: みッペ
         url: '#'
         style: link
         icon_class: dev
