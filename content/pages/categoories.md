@@ -1,6 +1,6 @@
 ---
 title: CATEGORIES
-hide_title: true
+hide_title: false
 excerpt: lorem-ipsum
 sections: []
 seo:
