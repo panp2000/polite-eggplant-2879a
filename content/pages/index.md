@@ -6,7 +6,7 @@ sections:
     type: section_hero
     title: 見っぺ！聞くべ！行くべ！たまげっぺ！ かしまだい
     content: |
-      「かしまだい」は日本三景松島の北隣りにある町です。美味しいトマトやきれいな花や素敵なカフェ、すごい人達など楽しい魅力を紹介していきます。
+      宮城県大崎市鹿島台の魅力発信ページ
   - section_id: about
     type: section_content
     title: About
