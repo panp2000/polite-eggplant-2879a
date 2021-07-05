@@ -1,5 +1,5 @@
 ---
-title: 記事
+title: CONTENTS
 seo:
   title: Blog
   description: This is the blog page
