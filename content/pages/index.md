@@ -6,7 +6,7 @@ sections:
     type: section_hero
     title: 見っぺ！聞くべ！行くべ！たまげっぺ！ かしまだい
     content: |
-      「鹿島台」は宮城県北部に位置する大崎市の最南端に位置し、日本三景松島の北隣りにあります。
+      「かしまだい」は日本三景松島の北隣りにある町です。美味しいトマトやきれいな花や素敵なカフェ、すごい人達など楽しい魅力を紹介していきます。
   - section_id: about
     type: section_content
     title: About
