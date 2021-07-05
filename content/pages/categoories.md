@@ -7,7 +7,7 @@ sections:
     section_id: lorem-ipsum
     posts_number: 2
     actions:
-      - label: 見っぺカテゴリー
+      - label: 見っぺカテゴリーへ
         url: '#'
         style: link
         icon_class: dev
