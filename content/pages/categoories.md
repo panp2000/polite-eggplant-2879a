@@ -1,5 +1,5 @@
 ---
-title: lorem-ipsum
+title: CATEGORIES
 hide_title: true
 excerpt: lorem-ipsum
 sections: []
