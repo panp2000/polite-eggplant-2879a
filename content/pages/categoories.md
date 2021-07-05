@@ -5,7 +5,7 @@ excerpt: lorem-ipsum
 sections:
   - title: 見っぺ！
     section_id: lorem-ipsum
-    posts_number: 0
+    posts_number: 2
     actions: []
     type: section_posts
 seo:
