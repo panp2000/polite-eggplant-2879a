@@ -3,7 +3,7 @@ title: CATEGORIES
 hide_title: false
 excerpt: lorem-ipsum
 sections:
-  - title: 見っぺ
+  - title: 見っぺ！
     section_id: lorem-ipsum
     posts_number: 0
     actions: []
