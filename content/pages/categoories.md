@@ -8,7 +8,7 @@ sections:
     posts_number: 2
     actions:
       - label: 見っぺカテゴリーへ
-        url: '#'
+        url: /
         style: link
         icon_class: dev
         new_window: false
